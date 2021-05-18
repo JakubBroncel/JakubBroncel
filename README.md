@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @JakubBroncel
+- 👀 I’m interested in Coding obviously and i also play a lot of chess 
+- 🌱 I’m currently learning to code in C++
+- 📫 How to reach me daygon.business@gmail.com
